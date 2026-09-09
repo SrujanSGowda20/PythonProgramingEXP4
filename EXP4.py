@@ -59,6 +59,25 @@ print("Sorted list:", College)
 #clear
 College.clear()
 print("Cleared list:", College)
+
+
+
+OUTPUT
+original list: ['JAIN', 'CHRIST', 'JSS', 'RV', 'RRMC']
+Length of the list: 5
+['JAIN', 'CHRIST', 'JSS', 'RV', 'RRMC', 'PES']
+['JAIN', 'CHRIST', 'BMS', 'JSS', 'RV', 'RRMC', 'PES']
+Count of CHRIST: 1
+['JAIN', 'CHRIST', 'BMS', 'JSS', 'RV', 'RRMC', 'PES']
+['PES', 'RRMC', 'RV', 'JSS', 'BMS', 'CHRIST', 'JAIN']
+['PES', 'RRMC', 'RV', 'BMS', 'CHRIST', 'JAIN']
+['PES', 'RRMC', 'RV', 'BMS', 'CHRIST']
+4
+['PES', 'RRMC', 'RV', 'BMS', 'CHRIST', 'PES', 'BMS']
+Maximum: RV
+Minimum: BMS
+Sorted list: ['BMS', 'BMS', 'CHRIST', 'PES', 'PES', 'RRMC', 'RV']
+Cleared list: []
      
 
 
